@@ -23,6 +23,9 @@ Contains symbols and footprints for:
 ### Crystal Oscillators
 - Würth Elektronik [IQXO-794 831056262](https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/831056262/13900194) as "WE-SPXO Crystal Osc 12.00MHz" (footprint Oscillator_SMD_4pin_2.5x2.0mm) [**Custom**].
 
+## SOIC Components
+- onsemi [MMPQ2222A](https://www.digikey.com/en/products/detail/onsemi/MMPQ2222A/458886) 4x NPN Transistor 40V 0.5A 16SOIC as "MMPQ2222A" (footprint SOIC127P600X175-16N).
+
 ## Through-Hole Components
 ### LEDs
-- Kingbright [WP934TV-4LID](https://www.digikey.com/en/products/detail/kingbright/WP934TV-4LID/6003266) 3mm Right Angle LED 4x High Efficiency as "WP934TV-4LID" (footprint: same) [**Custom**].
+- Kingbright [WP934TV-4LID](https://www.digikey.com/en/products/detail/kingbright/WP934TV-4LID/6003266) 3mm Right Angle LED 4x High Efficiency as "WP934TV-4LID" (footprint same) [**Custom**].
