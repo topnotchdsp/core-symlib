@@ -6,7 +6,7 @@
     (property "Value" "Breakout_RFM95W" (id 1) (at 0 7.62 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "1KicadLib:Breakout_RFM95W" (id 2) (at -2.54 3.81 0)
+    (property "Footprint" "1KicadLib:Breakout_RFM95W" (id 2) (at 1.27 -29.21 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://cdn-learn.adafruit.com/assets/assets/000/031/659/original/RFM95_96_97_98W.pdf?1460518717" (id 3) (at 5.08 -26.67 0)
@@ -19,7 +19,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (symbol "Breakout_RFM95W_0_0"
-      (text "IrqReq" (at -21.59 -7.62 0)
+      (text "_IrqReq" (at -3.81 -7.62 0)
         (effects (font (size 1.27 1.27)))
       )
       (pin power_in line (at -12.7 0 0) (length 2.54)
