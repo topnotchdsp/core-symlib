@@ -4,7 +4,7 @@ Contains symbols and footprints for:
 
 ## Modules and Breakouts
 ### Wireless/RF
-- Adafruit [RFM95W Breakout Board](https://adafruit.com/product/3072) as "Breakout_RFM95W" (footprint same).
+- Adafruit [RFM95W Breakout Board](https://adafruit.com/product/3072) as "Breakout_RFM95W" (footprint same [**Custom**]).
 
 ## MCUs
 - Raspberry Pi [RP-2040](https://www.raspberrypi.com/documentation/microcontrollers/rp2040.html) as "RP2040TR7" (footprint QFN40P700X700X90-57N).
@@ -18,4 +18,7 @@ Contains symbols and footprints for:
 - Kyocera AVX [W2A4ZC104MAT2A](https://www.digikey.com/en/products/detail/kyocera-avx/W2A4ZC104MAT2A/776804) as "W2A4ZC104MAT2A" (footprint same).
 
 ## Oscillators
+### Crystal Oscillators
+- Würth Elektronik [IQXO-794 831056262](https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/831056262/13900194) as "WE-SPXO Crystal Osc 12.00MHz" (footprint Oscillator_SMD_4pin_2.5x2.0mm [**Custom**])
+
 ### Temperature Controlled Crystal Oscillators
