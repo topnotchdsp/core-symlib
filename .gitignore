@@ -31,4 +31,6 @@ fp-info-cache
 plugins/*
 projects/*
 scripting/*
-template/*
+
+# Symlinked libraries
+footprints/Expansion_Card.pretty
