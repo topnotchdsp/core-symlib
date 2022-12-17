@@ -34,3 +34,7 @@ scripting/*
 
 # Symlinked libraries
 footprints/Expansion_Card.pretty
+
+# Local prefs & backups
+*.kicad_prl
+*-backups/
