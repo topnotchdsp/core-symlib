@@ -1,12 +1,13 @@
-# Kris' KiCad Library
-To be located at `/home/<user>/.local/share/kicad/6.0`. This could spill over into other custom libraries, so that may be changed in the future.
-
+# Core Symbol Library
 Contains symbols and footprints for:
 
 ## Modules and Breakouts
 ### Wireless/RF
 - Adafruit [RFM95W Breakout Board](https://adafruit.com/product/3072) as "Breakout_RFM95W" (footprint same) [**Custom**].
 - SemTech [SX1276 LoRa transceiver](https://www.semtech.com/products/wireless-rf/lora-connect/sx1276) as "SX1276IMLTRT" (footprint QFN65P600X600X100-29N).
+
+### UI
+- Questwise Ventures [MiniIO Breadboard-Friendly User Interface Module](https://www.tindie.com/products/questwise-ventures/mini-io-breadboard-friendly-user-interface-module)
 
 ## MCUs
 - Raspberry Pi [RP-2040](https://www.raspberrypi.com/documentation/microcontrollers/rp2040.html) as "RP2040TR7" (footprint QFN40P700X700X90-57N).
